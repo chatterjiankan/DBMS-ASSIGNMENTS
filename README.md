@@ -1,4 +1,3 @@
-# DBMS ASSIGNMENTS
 # 📘 DBMS & SQL
 
 This repository contains my **Database Management System (DBMS)** coursework, assignments, SQL queries, and practical work completed as part of my **B.Tech Computer Science Engineering** studies.

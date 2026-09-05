@@ -70,4 +70,4 @@ SELECT
 FROM
     employee
 WHERE
-    department = "IT";
+    department = "IT"; 
